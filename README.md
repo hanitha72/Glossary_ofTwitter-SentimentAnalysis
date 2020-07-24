@@ -13,6 +13,21 @@ twetter
    
  **Predictive Modelling**
  * Data cleanining done on  extrated twitter data
- 
+ * Text preprocessing like word_embeeding, tokenizing and lemmatization done. And vectorization of words done through countVectorization, tf-idf and through word2vec and    compared the **F1 score**  after building models.
+ * Models built are,
+   1. NaiveBayes
+   2. MultiNominal Naivebayes
+   3. SVM
+   4. Random Forest
+   5. LSTM
+   6. BERT
+   
+      On the above all models BERT gave good results
+      
+  * Deployment done through Flask
+  
+  <p align="right">
+<img src = "images/tw4.jpg" width = 200 height=200>
+</p>
 
  
